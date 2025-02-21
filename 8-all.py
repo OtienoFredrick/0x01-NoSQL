@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-A python fucntion that lists all documents
+A python function that lists all documents
 in a collection
 """
 
